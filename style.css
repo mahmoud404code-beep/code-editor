@@ -56,10 +56,6 @@ header h3 {
 }
 
 textarea {
-  font-family: "Fira Code", monospace;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
   display: block;
   width: 100%;
   height: 100%;
